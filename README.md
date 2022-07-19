@@ -14,3 +14,16 @@ Features and Functions:
 Scope of the project 🚀
 
 Facial recognition is getting to be more noticeable in our society. It has made major advance within the field of security. It may be a exceptionally compelling device that can offer assistance moo enforcers to recognize offenders. This innovation can be assist created to be utilized in other roads such as ATMs, getting to secret records, or other touchy materials. This extend servers as a establishment for future ventures based on facial location and acknowledgment. This venture moreover convers web improvement and database administration with a user-friendly UI. Utilizing this framework any corporate workplaces, school and organization can supplant their conventional way of keeping up participation of the workers and can moreover produce their availability(presence) report all through the month. 
+
+
+The system mainly works around 2 types of users
+
+    Student
+    Admin
+
+Following functionalities can be performed by the admin:
+• Login
+• Register new student to the system
+• Add student photos to the training data set
+• Train the model
+• View attendance report of all students. Attendance can be filtered by date or student.
